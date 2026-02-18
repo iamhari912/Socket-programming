@@ -24,10 +24,4 @@ Timeout handling for scanning
 - Python 3
 - Built-in `socket` library
 
- **Project Structure**
- /socket-project
-│
-├── server.py
-├── client.py
-├── port_scanner.py
-└── README.md
+
